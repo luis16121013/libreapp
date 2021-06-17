@@ -3,7 +3,6 @@
 	import Card from '../components/Card.svelte'
 </script>
 
-<Carousel/>
 <div class="row">
 	<Card title={"Comunicacion"}/>
 	<Card title={"Matematica"}/>

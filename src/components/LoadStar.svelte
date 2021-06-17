@@ -5,7 +5,7 @@
 <div class="scene">
   <Stars message={"En desarrollo..."}/>
   <div class="rocket">
-    <img src="./rocket.png" alt="rocket">
+    <img src="https://github.com/libreapp/blob/master/public/rocket.png?raw=true" alt="rocket">
   </div>
 </div>
 
