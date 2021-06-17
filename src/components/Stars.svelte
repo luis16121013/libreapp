@@ -3,13 +3,11 @@
   import Star from './Star.svelte'
     const getNumber=()=>{
         let number = Math.random()*3100
-        console.log(number,"position")
         return number
       }
     
     const getDuration=()=>{
         let number = Math.random()*1
-        console.log("duration: === ",number)
         return number
       }
 </script>
